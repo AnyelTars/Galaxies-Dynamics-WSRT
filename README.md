@@ -1,2 +1,12 @@
 # Apr86-Galaxy-System
-NGC7753 and NGC7752
+
+This repository is organized by galaxy system.
+
+- `ARP86/` contains the ARP86 system material:
+  - `NGC7753/`
+  - `NGC7752/`
+  - `USNOA2-1125-19940303/`
+  - `HI-mass-per-galaxy/`
+  - `StarFormation/`
+  - `Residuals/`
+- `report/` contains the paper material.
